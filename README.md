@@ -4,6 +4,12 @@
 
 Jupyter notebook copies of my [DataCamp projects](https://www.datacamp.com/profile/jonmabale).
 
+## Python
+
+| Project Title                      | Skills              |
+| ---------------------------------- | ------------------- |
+| Generating Keywords for Google Ads | `Data Manipulation` |
+
 ## SQL
 
 | Project Title                                    | Skills                                          |
