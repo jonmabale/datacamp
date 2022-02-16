@@ -6,9 +6,10 @@ Jupyter notebook copies of my [DataCamp projects](https://www.datacamp.com/profi
 
 ## Python
 
-| Project Title                      | Skills              |
-| ---------------------------------- | ------------------- |
-| Generating Keywords for Google Ads | `Data Manipulation` |
+| Project Title                      | Skills                                                               |
+| ---------------------------------- | -------------------------------------------------------------------- |
+| Generating Keywords for Google Ads | `Data Manipulation`                                                  |
+| Analyzing TV Data                  | `Data Manipulation` `Data Visualization` `Importing & Cleaning Data` |
 
 ## SQL
 
