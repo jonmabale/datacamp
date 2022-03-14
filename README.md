@@ -18,3 +18,4 @@ Jupyter notebook copies of my [DataCamp projects](https://www.datacamp.com/profi
 | ------------------------------------------------ | ----------------------------------------------- |
 | What and Where are the World's Oldest Businesses | `Data Manipulation`                             |
 | Analyze International Debt Statistics            | `Data Manipulation` `Importing & Cleaning Data` |
+| When Was the Golden Age of Video Games?          | `Data Manipulation`                             |
