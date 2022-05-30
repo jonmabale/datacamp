@@ -9,7 +9,7 @@ Jupyter notebook copies of my [DataCamp projects](https://www.datacamp.com/profi
 | Project Title                                              | Skills                                                                |
 | ---------------------------------------------------------- | --------------------------------------------------------------------- |
 | Generating Keywords for Google Ads                         | `Data Manipulation`                                                   |
-| Analyzing TV Data                                          | `Data Manipulation` `Data Visualization` `Importing & Cleaning Data`  |
+| Analyzing TV Data                                          | `Importing & Cleaning Data` `Data Manipulation` `Data Visualization`  |
 | Investigating Netflix Movies and Guest Stars in The Office | `Data Manipulation` `Data Visualization` `Programming` `Case Studies` |
 
 ## SQL
@@ -17,7 +17,8 @@ Jupyter notebook copies of my [DataCamp projects](https://www.datacamp.com/profi
 | Project Title                                    | Skills                                          |
 | ------------------------------------------------ | ----------------------------------------------- |
 | What and Where are the World's Oldest Businesses | `Data Manipulation`                             |
-| Analyze International Debt Statistics            | `Data Manipulation` `Importing & Cleaning Data` |
+| Analyze International Debt Statistics            | `Importing & Cleaning Data` `Data Manipulation` |
 | When Was the Golden Age of Video Games?          | `Data Manipulation`                             |
 | Analyzing American Baby Name Trends              | `Data Manipulation`                             |
 | Analyzing NYC Public School Test Result Scores   | `Data Manipulation` `Programming`               |
+| Optimizing Online Sports Retail Revenue          | `Data Manipulation`                             |
